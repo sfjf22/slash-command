@@ -1,4 +1,4 @@
-# Slack Assignment - A Slash Command
+# Slack Assignment - A Slash Command (Simplified version)
 
 ## Description
 This task is to demo that when a Slash command is triggered, relevant data will be sent to an external URL in real-time and resulting response will be posted back to Slack. In our example, we will see that a message of a randomly generated number (representing a playing card) will be posted in the channel from which the command is triggered.
